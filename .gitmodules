@@ -6,3 +6,7 @@
 	path = InteractiveHtmlBom
 	url = https://github.com/openscopeproject/InteractiveHtmlBom.git
 	branch = master
+[submodule "pcb-tools"]
+	path = pcb-tools
+	url = https://github.com/curtacircuitos/pcb-tools.git
+	branch = master
