@@ -2,3 +2,7 @@
 	path = kicad_scripts
 	url = https://github.com/NilujePerchut/kicad_scripts.git
 	branch = master
+[submodule "InteractiveHtmlBom"]
+	path = InteractiveHtmlBom
+	url = https://github.com/openscopeproject/InteractiveHtmlBom.git
+	branch = master
