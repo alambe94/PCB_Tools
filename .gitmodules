@@ -1,0 +1,4 @@
+[submodule "kicad_scripts"]
+	path = kicad_scripts
+	url = https://github.com/NilujePerchut/kicad_scripts.git
+	branch = master
