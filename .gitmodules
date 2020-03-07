@@ -22,3 +22,7 @@
 	path = Panelization.pretty
 	url = https://github.com/madworm/Panelization.pretty.git
 	branch = master
+[submodule "kicad-util"]
+	path = kicad-util
+	url = https://gitlab.com/dren.dk/kicad-util.git
+	branch = master
