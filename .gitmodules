@@ -10,3 +10,7 @@
 	path = pcb-tools
 	url = https://github.com/curtacircuitos/pcb-tools.git
 	branch = master
+[submodule "pcb-tools-extension"]
+	path = pcb-tools-extension
+	url = https://github.com/opiopan/pcb-tools-extension.git
+	branch = master
