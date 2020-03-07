@@ -14,3 +14,7 @@
 	path = pcb-tools-extension
 	url = https://github.com/opiopan/pcb-tools-extension.git
 	branch = master
+[submodule "GerberTools"]
+	path = GerberTools
+	url = https://github.com/ThisIsNotRocketScience/GerberTools.git
+	branch = master
