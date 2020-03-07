@@ -18,3 +18,7 @@
 	path = GerberTools
 	url = https://github.com/ThisIsNotRocketScience/GerberTools.git
 	branch = master
+[submodule "Panelization.pretty"]
+	path = Panelization.pretty
+	url = https://github.com/madworm/Panelization.pretty.git
+	branch = master
