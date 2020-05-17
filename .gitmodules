@@ -26,3 +26,6 @@
 	path = kicad-util
 	url = https://gitlab.com/dren.dk/kicad-util.git
 	branch = master
+[submodule "Kicad_action_plugins"]
+	path = Kicad_action_plugins
+	url = https://github.com/MitjaNemec/Kicad_action_plugins.git
